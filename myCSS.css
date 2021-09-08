@@ -9,14 +9,14 @@ body {
 	
 }
 .homePage {
-	background: #222222;
+	background: #1844DB;
 }
 .container {
 	width: 960px;
 	margin: 0 auto;
 }
 .header {
-	background: #AAAAAA;
+	background: #FA281E;
 	text-align: center;
 	margin: 0px;
 	padding: 5;
@@ -43,7 +43,7 @@ body {
 	text-align: center;
 }
 .footer {
-	background: #777777;
+	background: #FA281E;
 	margin: 0px;
 	float: left;
 	width: 100%;
